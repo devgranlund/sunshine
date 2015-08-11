@@ -3,8 +3,19 @@
 
     <string name="app_name">Sunshine</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
 
     <string name="action_refresh">Refresh</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!-- Settings -->
+    <string name="action_settings">Settings</string>
+    <string name="pref_location_default" translatable="false">Tampere</string>
+    <string name="pref_location_key" transalatable="false">weather_location_town_key</string>
+    <string name="pref_location_label">Location</string>
+    <string name="pref_number_of_days_default" translatable="false">7</string>
+    <string name="pref_number_of_days_key" translatable="false">pref_number_of_days_key</string>
+    <string name="pref_number_of_days_label">Number of days in the forecast</string>
+    <string name="action_map">Current location in a map</string>
+    <string name="action_share">Share</string>
 
 </resources>
