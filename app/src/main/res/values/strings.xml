@@ -17,5 +17,8 @@
     <string name="pref_number_of_days_label">Number of days in the forecast</string>
     <string name="action_map">Current location in a map</string>
     <string name="action_share">Share</string>
+    <string name="pref_units_key">pref_units_key</string>
+    <string name="pref_units_metric">Metric</string>
+    <string name="pref_units_imperial">Imperial</string>
 
 </resources>
